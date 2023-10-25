@@ -1,2 +1,1 @@
-# .github
-README repository for openMetadataInitiative organization.
+# Welcome to the openMetadataInitiative
