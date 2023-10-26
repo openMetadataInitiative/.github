@@ -1,4 +1,10 @@
-## Welcome to the openMetadataInitiative!
+# Welcome to the Open Metadata Initiative!
+
+The Open Metadata Initiative was founded to create an non-profit entity for open-source, expert and community-driven projects that are dedicated to metadata management and harmonization. 
+
+Currently the Open Metadata Initiative hosts the following projects:
+- **openMINDS** - a metadata framework for linked data in neuroscience :arrow_right: [ReadTheDocs](https://openminds-documentation.readthedocs.io)
+
 
 <!--
 
